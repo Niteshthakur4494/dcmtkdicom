@@ -1,6 +1,5 @@
 # DCMTK DICOM
 
-================================
 DCMTK DICOM TOOLKIT INSTALLATION
 ================================
 
